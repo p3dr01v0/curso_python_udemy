@@ -1,0 +1,7 @@
+Nome: ignore, Idade: esta
+Nome: maria, Idade: 45
+Nome: joao, Idade: 23
+Nome: renato, Idade: 34
+Nome: mario, Idade: 58
+Nome: ana, Idade: 19
+Nome: bia, Idade: 21

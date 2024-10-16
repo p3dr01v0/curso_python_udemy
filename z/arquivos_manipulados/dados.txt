@@ -1,0 +1,6 @@
+nome: maria, idade 35, id: 123
+nome: joao, idade 22, id: 321
+nome: fulano, idade 19, id: 098
+nome: cicrano, idade 21, id: 890
+nome: beltrano, idade 25, id: 456
+nome: nome, idade 27, id: 654
